@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gallery-live-view/static/css/main.d1f205aa.chunk.css",
+    "main.js": "/gallery-live-view/static/js/main.1e653726.chunk.js",
+    "main.js.map": "/gallery-live-view/static/js/main.1e653726.chunk.js.map",
+    "runtime-main.js": "/gallery-live-view/static/js/runtime-main.7e873551.js",
+    "runtime-main.js.map": "/gallery-live-view/static/js/runtime-main.7e873551.js.map",
+    "static/js/2.7fa23066.chunk.js": "/gallery-live-view/static/js/2.7fa23066.chunk.js",
+    "static/js/2.7fa23066.chunk.js.map": "/gallery-live-view/static/js/2.7fa23066.chunk.js.map",
+    "index.html": "/gallery-live-view/index.html",
+    "static/css/main.d1f205aa.chunk.css.map": "/gallery-live-view/static/css/main.d1f205aa.chunk.css.map",
+    "static/js/2.7fa23066.chunk.js.LICENSE.txt": "/gallery-live-view/static/js/2.7fa23066.chunk.js.LICENSE.txt",
+    "static/media/o-chair.3554e8ed.png": "/gallery-live-view/static/media/o-chair.3554e8ed.png",
+    "static/media/o-table.dfc2dd87.png": "/gallery-live-view/static/media/o-table.dfc2dd87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e873551.js",
+    "static/js/2.7fa23066.chunk.js",
+    "static/css/main.d1f205aa.chunk.css",
+    "static/js/main.1e653726.chunk.js"
+  ]
+}
